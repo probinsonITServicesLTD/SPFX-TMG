@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "tile-menu-generator",
+    "libraryId": "2ff10456-39f4-4b79-a14a-aa6e185eb39c",
+    "environment": "onprem"
+  }
+}

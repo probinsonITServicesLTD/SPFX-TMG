@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/tileMenuGenerator/TileMenuGeneratorWebPart.js",
+      "manifest": "./src/webparts/tileMenuGenerator/TileMenuGeneratorWebPart.manifest.json",
+      "outputPath": "./dist/tile-menu-generator-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "TileMenuGeneratorWebPartStrings": "webparts/tileMenuGenerator/loc/{locale}.js",
+    "PropertyControlStrings": "../node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js"
+  }
+}

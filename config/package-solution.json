@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tile-menu-generator-client-side-solution",
+    "id": "2ff10456-39f4-4b79-a14a-aa6e185eb39c",
+    "version": "1.3.1.1"
+  },
+  "paths": {
+    "zippedPackage": "solution/tile-menu-generator.sppkg"
+  }
+}

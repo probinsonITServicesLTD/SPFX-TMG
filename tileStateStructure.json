@@ -1,0 +1,118 @@
+{
+    "tiles":[
+        {
+            "name" : "first tile",
+            "order" : 0,
+            "properties" : [],
+            "imageUrl": "https://images.pexels.com/photos/776615/pexels-photo-776615.jpeg",
+            "tileId" :0, 
+            "tileIndex": 0,
+            "links":[
+                {
+                    "linkName" : "link 1",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 0,
+                    "linkid": 1,
+                    "linkIndex": 0
+                },
+                {
+                    "linkName" : "link 2",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 1,
+                    "linkid": 2,
+                    "linkIndex": 1
+                },
+                {
+                    "linkName" : "link 3",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 2,
+                    "linkid": 3,
+                    "linkIndex": 2
+                },
+                {
+                    "linkName" : "link 4",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 3,
+                    "linkid": 4,
+                    "linkIndex": 3
+                }
+            ]
+        },
+        {
+            "name" : "second tile",
+            "order" : 0,
+            "properties" : [],
+            "imageUrl": "https://images.pexels.com/photos/776615/pexels-photo-776615.jpeg",
+            "tileId" :1, 
+            "tileIndex": 1,
+            "links":[
+                {
+                    "linkName" : "link 1",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 0,
+                    "linkid": 1,
+                    "linkIndex": 0
+                },
+                {
+                    "linkName" : "link 2",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 1,
+                    "linkid": 2,
+                    "linkIndex": 1
+                },
+                {
+                    "linkName" : "link 3",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 2,
+                    "linkid": 3,
+                    "linkIndex": 2
+                },
+                {
+                    "linkName" : "link 4",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 3,
+                    "linkid": 4,
+                    "linkIndex": 3
+                }
+            ]
+        },
+        {
+            "name" : "third tile",
+            "order" : 0,
+            "properties" : [],
+            "imageUrl": "https://images.pexels.com/photos/776615/pexels-photo-776615.jpeg",
+            "tileId" :2, 
+            "tileIndex": 2,
+            "links":[
+                {
+                    "linkName" : "link 1",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 0,
+                    "linkid": 1,
+                    "linkIndex": 0
+                },
+                {
+                    "linkName" : "link 2",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 1,
+                    "linkid": 2,
+                    "linkIndex": 1
+                },
+                {
+                    "linkName" : "link 3",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 2,
+                    "linkid": 3,
+                    "linkIndex": 2
+                },
+                {
+                    "linkName" : "link 4",
+                    "href" : "http://wwww.google.ie",
+                    "order" : 3,
+                    "linkid": 4,
+                    "linkIndex": 3
+                }
+            ]
+        }
+    ]
+}
